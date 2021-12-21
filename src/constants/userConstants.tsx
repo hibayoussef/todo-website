@@ -1,0 +1,13 @@
+export const USER_LOGIN_REQUEST = "USER_LOGIN_REQUEST";
+export const USER_LOGIN_SUCCESS = "USER_LOGIN_SUCCESS";
+export const USER_LOGIN_FAIL = "USER_LOGIN_FAIL";
+export const USER_LOGOUT = "USER_LOGOUT";
+
+export const CREATE_LIST = 'CREATE_LIST';
+export const GET_ALL_LISTS = 'GET_ALL_LISTS';
+export const CREATE_CARD = 'CREATE_CARD';
+export const GET_ALL_CARDS_INSIDE_LIST = 'GET_ALL_CARDS_INSIDE_LIST';
+export const GET_SINGLE_CARD = 'GET_SINGLE_CARD';
+
+// export const REMOVE_LIST = 'REMOVE_LIST';
+// export const REMOVE_CARD = 'REMOVE_CARD';
